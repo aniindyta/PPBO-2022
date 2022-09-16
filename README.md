@@ -1,2 +1,5 @@
-# PPBO-2022
-Praktikum Pemrograman Berorientasi Objek
+# Praktikum Pemrograman Berorientasi Objek
+
+Nama : Anindita Putri Kirani 
+
+NIM  : M0521012
