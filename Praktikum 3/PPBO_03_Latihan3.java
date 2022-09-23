@@ -1,5 +1,3 @@
-// BELOM SELESAI
-
 // Nama : Anindita Putri Kirani
 // NIM  : M0521012
 
